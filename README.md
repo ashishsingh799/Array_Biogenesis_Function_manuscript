@@ -1,4 +1,4 @@
-# Array_Biogenesis_function_manuscript
+# Array_Biogenesis_Function_manuscript
 
 This repository provides code related to manuscript "The biogenesis and function of nucleosome arrays". Please read "Data analysis" section in the Methods section for detailed description and version of each publicly available software used.
 
