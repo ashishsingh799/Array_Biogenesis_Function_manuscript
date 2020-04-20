@@ -8,8 +8,8 @@ An expected dataset for NRL and array regularity is provided.
 
 System requirements: All softwares, including version numbers, are described in the Methods section. Standard hardware was used.
 
-Installation guide: Typical installation routiines are described by each publicly availbale software was used.
+Installation guide: Typical installation routiines as described by each publicly availbale software were used.
 
 Demo: bigWig files are available from the GEO repository under accession number GSE141007. Source code to calculate NRL and array regularity is provided.
 
-Instructions for use: Standard R procedures are used.
+Instructions for use: Standard R and MATLAB procedures were used.
