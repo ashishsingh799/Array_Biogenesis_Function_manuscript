@@ -1,4 +1,4 @@
-function nucleosomegas_NatComm(fResidualHistones, sigma, numsimu, genelength_minmax, nDissociate, prctDissociate)
+function nucleosomegas(fResidualHistones, sigma, numsimu, genelength_minmax, nDissociate, prctDissociate)
 %
 % Simulates statistical depositon of nucleosomes next to a well positioned +1 nucleosome.
 % Nucleosomes are initially in a 'gas', ie unbound, and then settle one by
@@ -15,7 +15,7 @@ function nucleosomegas_NatComm(fResidualHistones, sigma, numsimu, genelength_min
 % nDissociate : number of times, a certain percentage of nucleosomes is randomly dissociated and re-depositedprctDissociate)
 % prctDissociate: percentage of nucleosomes that is randomly dissociated
 %
-% Example usage: nucleosomegas_NatComm(0.6, 25, 50000, [2000, 2500], 10, 20)
+% Example usage: nucleosomegas(0.6, 25, 50000, [2000, 2500], 10, 20)
 %
 % (c) 2019 - 2020, Felix Mueller-Planitz
 
